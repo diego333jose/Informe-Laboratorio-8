@@ -36,21 +36,23 @@ Especificos:
 
 Marco teorico:
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-8/blob/main/Imagenes/Diagrama%20en%20blanco%20(6).png)
 
 - Simulador
 
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-8/blob/main/Imagenes/LABO%208_page-0001.jpg)
 
 - Respuestas
 
-![](
-
-![](
+![](https://github.com/diego333jose/Informe-Laboratorio-8/blob/main/Imagenes/LABO%208_page-0002.jpg)
 
 Conclusiones:
 
+- El osciloscopio es una herramienta sumamente util cuya principal funcion es la de demostrar una grafica de la señal en función del tiempo.
 
+- Una onda senoidal se compone de amplitud, frecuencia, valores pico, ciclos, entre más elementos.
+
+- A diferencia del osciloscopio, el multimetro se encarga de calcular valores rms, es por eso que se da una diferencia entre la amplitud de voltaje mostrado en el osciloscopio a la mostrada en el multimetro 
 
 Recomendaciones:
 
@@ -62,4 +64,4 @@ Referencias:
 
 - Onda senoidal—EcuRed. (s. f.). Recuperado 13 de febrero de 2022, de https://www.ecured.cu/Onda_senoidal
 
-Link del video:
+Link del video: https://youtu.be/IzTfskfPEo8
