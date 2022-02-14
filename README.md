@@ -52,7 +52,7 @@ Conclusiones:
 
 - Una onda senoidal se compone de amplitud, frecuencia, valores pico, ciclos, entre más elementos.
 
-- A diferencia del osciloscopio, el multímetro se encarga de calcular valores rms, es por eso que se da una diferencia entre la amplitud de voltaje mostrado en el osciloscopio a la mostrada en el multimetro 
+- A diferencia del osciloscopio, el multímetro se encarga de calcular valores rms, es por eso que se da una diferencia entre la amplitud de voltaje mostrado en el osciloscopio a la mostrada en el multímetro 
 
 Recomendaciones:
 
