@@ -18,13 +18,13 @@ INTEGRANTES:
 
 • Alvarado Nevárez Diego José
 
-**PRÁCTICA No. 8 Caracteristicas de la onda senoidal**
+**PRÁCTICA No. 8 Características de la onda senoidal**
 
 Objetivos:
 
 General:
 
--	Determinar mediante el uso de simuladores las caracteristicas de la onda senoidal.
+-	Determinar mediante el uso de simuladores las características de la onda senoidal.
 
 Especificos:
 
@@ -32,7 +32,7 @@ Especificos:
 
 - Determinar Periodo, frecuencia y frecuencia angular
 
-- Comparar la amplitud de voltaje con el voltaje calculado con el multimetro
+- Comparar la amplitud de voltaje con el voltaje calculado con el multímetro
 
 Marco teorico:
 
@@ -48,15 +48,15 @@ Marco teorico:
 
 Conclusiones:
 
-- El osciloscopio es una herramienta sumamente util cuya principal funcion es la de demostrar una grafica de la señal en función del tiempo.
+- El osciloscopio es una herramienta sumamente util cuya principal función es la de demostrar una gráfica de la señal en función del tiempo.
 
 - Una onda senoidal se compone de amplitud, frecuencia, valores pico, ciclos, entre más elementos.
 
-- A diferencia del osciloscopio, el multimetro se encarga de calcular valores rms, es por eso que se da una diferencia entre la amplitud de voltaje mostrado en el osciloscopio a la mostrada en el multimetro 
+- A diferencia del osciloscopio, el multímetro se encarga de calcular valores rms, es por eso que se da una diferencia entre la amplitud de voltaje mostrado en el osciloscopio a la mostrada en el multimetro 
 
 Recomendaciones:
 
-- Conocer bien todo los conceptos y formulas a emplear.
+- Conocer bien todo los conceptos y fórmulas a emplear.
 
 Referencias:
 
